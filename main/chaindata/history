@@ -1,0 +1,13 @@
+eth.accounts
+debug
+debug.dumpBlock()
+debug.dumpBlock(0x00000)
+debug.accountRange()
+ws
+eth.accounts
+miner
+miner.gasPrice()
+miner.gasPrice
+miner.gasLimit
+miner.setExtrabase()
+eth.accounts
